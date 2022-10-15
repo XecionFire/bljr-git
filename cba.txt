@@ -1,1 +1,2 @@
-ini satu
+ini tiga
+ini dua
